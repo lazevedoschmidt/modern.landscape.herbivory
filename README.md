@@ -3,7 +3,7 @@ Authors: Lauren Azevedo-Schmidt<sup>1*</sup>, Anshuman Swain<sup>2*</sup>, Laure
 
 Affiliations: \
 <sup>1</sup>Department of Botany and Program in Ecology, University of Wyoming, Laramie, Wyoming 82071, USA \
-<sup>1</sup>University of Maryland, Department of Biology, College Park, 20742, USA
+<sup>2</sup>University of Maryland, Department of Biology, College Park, 20742, USA \
 <sup>3</sup>Department of Geology and Geophysics, University of Wyoming, Laramie, Wyoming, USA 82071
 
 Keywords: 
