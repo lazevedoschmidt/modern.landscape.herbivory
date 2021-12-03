@@ -6,6 +6,6 @@ Affiliations: \
 <sup>2</sup>University of Maryland, Department of Biology, College Park, 20742, USA \
 <sup>3</sup>Department of Geology and Geophysics, University of Wyoming, Laramie, Wyoming, USA 82071
 
-Keywords: 
+Keywords: latitudinal gradient, biotic interactions, abiotic interactions, insect herbibory, temperate forest, tropial forest
 
 The authors request that any data or code used from this publication be properly cited and recognized in future work. 
