@@ -1,4 +1,4 @@
-# TCo-occurrence and bipartite networks show landscape variability in insect herbivory occurrence within temperate and tropical ecosystems
+# Co-occurrence and bipartite networks show landscape variability in insect herbivory occurrence within temperate and tropical ecosystems
 Authors: Lauren Azevedo-Schmidt<sup>1*</sup>, Anshuman Swain<sup>2*</sup>, Lauren Shoemaker<sup>1</sup>, Ellen D. Currano<sup>1,3</sup>
 
 Affiliations: \
