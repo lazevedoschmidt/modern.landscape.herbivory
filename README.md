@@ -1,4 +1,4 @@
-# Temperate and tropical tree species experience similar frequencies in total insect herbivory but landscape heterogeneity provides a more detailed description into plant-insect interactions
+# Inter- and intra-forest comparisons provide new insight into plant-insect interactions for temperate and wet-tropical environments.
 Authors: Lauren Azevedo-Schmidt<sup>1*,2</sup>, Anshuman Swain<sup>3</sup>, Lauren Shoemaker<sup>2</sup>, Ellen D. Currano<sup>2,5</sup>
 
 Affiliations: \
