@@ -1,4 +1,4 @@
-# Inter- and intra-forest comparisons provide new insight into plant-insect interactions for temperate and wet-tropical environments.
+# Landscape level variability and insect herbivore outbreak captured within modern forests provides a framework for interpreting the fossil record.
 Authors: Lauren Azevedo-Schmidt<sup>1*,2</sup>, Anshuman Swain<sup>3</sup>, Lauren Shoemaker<sup>2</sup>, Ellen D. Currano<sup>2,5</sup>
 
 Affiliations: \
@@ -8,6 +8,6 @@ Affiliations: \
 <sup>4</sup>Harvard University, Departmen of Organismic and Evolutionary Biology, Cambridge, 02138, USA \
 <sup>5</sup>Department of Geology and Geophysics, University of Wyoming, Laramie, Wyoming, USA 82071
 
-Keywords: latitudinal gradient, biotic interactions, abiotic interactions, insect herbibory, temperate forest, tropial forest
+Keywords: plant-insect interactions, landscape variability, paleoecology, insect outbreak
 
 The authors request that any data or code used from this publication be properly cited and recognized in future work. 
